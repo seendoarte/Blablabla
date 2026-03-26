@@ -1,9 +1,6 @@
 # Blablabla
 A place where I spin the wheel
 
-# Blablabla
-A place where I spin the wheel
-
 ---
 
 ## 1. Cursor — global HTML
